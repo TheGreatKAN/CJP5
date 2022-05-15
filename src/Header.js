@@ -48,7 +48,7 @@ export const ResponsiveWrapper = styled.div`
 
 export default function Header() {
   return (
-      <AppBar position="static" style={{backgroundColor: '#e68e8e'}}>
+      <AppBar position="static" style={{backgroundColor: '#ffffff'}}>
       <ResponsiveWrapper>
           <SpacerLarge></SpacerLarge>
           <SpacerLarge></SpacerLarge>
@@ -66,7 +66,7 @@ export default function Header() {
           <SpacerLarge></SpacerLarge>
           <SpacerLarge></SpacerLarge>
           <SpacerLarge></SpacerLarge>
-        <StyledImg alt={"example"} src={"/config/images/test.png"} />
+        <StyledImg alt={"example"} src={"/config/images/walletnowad.gif"} />
         </ResponsiveWrapper>
         
       </AppBar>

@@ -445,7 +445,7 @@ ai={"center"} >
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--footer)",
+              color: "var(--accent-text)",
               fontWeight: "bold",
               font: "var(font-link)",
             }}

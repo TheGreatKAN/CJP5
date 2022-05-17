@@ -457,7 +457,7 @@ ai={"center"} >
           <s.SpacerXSmall />
 
 
-          <View style={{ position: 'absolute', left: 0, bottom: 0, }}>
+          <View style={{ position: 'fixed', left: 0, bottom: 0, }}>
             <ResponsiveWrapper>
               <s.Container flex={1}>
                 <a href={"https://oblivion.art/"}>
